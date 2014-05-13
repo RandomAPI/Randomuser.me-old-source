@@ -1,0 +1,142 @@
+albany
+carrollton
+addison
+plano
+celina
+aubrey
+van alstyne
+anna
+princeton
+allen
+richardson
+garland
+grand prairie
+arlington
+grapevine
+coppell
+farmers branch
+mesquite
+flowermound
+the colony
+frisco
+duncanville
+waxahachie
+ennis
+scurry
+cedar hill
+desoto
+lancaster
+red oak
+seagoville
+forney
+sunnyvale
+seymour
+vernon
+frederick
+burkburnett
+iowa park
+wichita falls
+albuquerque
+north valley
+rio rancho
+bernalillo
+stanley
+edgewood
+south valley
+los lunas
+belen
+dumas
+denver
+boulder
+fort collins
+greeley
+bueblo
+colorado springs
+fountain valley
+salt lake city
+provo
+great falls
+billings
+bozeman
+helena
+everett
+surrey
+seattle
+tacoma
+portland
+salem
+albany
+eugene
+grants pass
+medford
+roseburg
+tacoma
+yakima
+lewiston
+moscow
+spokane
+nampa
+boise
+caldwell
+red bluff
+redding
+eureka
+cupertino
+fresno
+bakersfield
+san jose
+fremont
+modesto
+stockton
+sacramento
+long beach
+los angeles
+san diego
+escondido
+henderson
+las vegas
+elko
+grand rapids
+lansing
+flint
+saginaw
+fort wayne
+indianapolis
+columbus
+cincinnati
+columbus
+akron
+cleveland
+toledo
+detroit
+evansville
+lousville
+nashville
+memphis
+shiloh
+shelby
+rochmond
+roanoke
+wilmington
+cape fear
+fayetteville
+raleigh
+greensboro
+charlotte
+akron
+pittsburgh
+dayton
+ironville
+lexington
+evansville
+joliet
+utica
+buffalo
+new york
+rochester
+lowell
+providence
+new haven
+hamsburg
+york
+altoona
