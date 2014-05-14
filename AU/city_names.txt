@@ -1,0 +1,46 @@
+Sydney
+Melbourne
+Brisbane
+Perth
+Adelaide
+Tweed
+Maitland
+Queanbeyan
+Australian Capital Territory
+Sunshine Coast
+Wollongong
+Hobart
+Geelong
+Townsville
+Cairns
+Darwin
+Toowoomba
+Ballarat
+Bendigo
+Launceston
+Albury
+Mackay
+Rockhampton
+Bundaberg
+Bunbury
+Coffs Harbour
+Wagga Wagga
+Hervey Bay
+Mildura
+Shepparton
+Gladstone
+Port Macquarie
+Tamworth
+Traralgon
+Orange
+Geraldton
+Bowral-Mittagong
+Dubbo
+Nowra-Bomaderry
+Bathurst
+Warrnambool
+Kalgoorlie
+Busselton
+Albany
+Warragul
+Devonport
