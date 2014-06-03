@@ -19,7 +19,7 @@ sort <file> | uniq -d
 ```
 3. Please re-sort a list if you modify it.
 ```sh
-sort <file> > <file>
+sort <file> -o <file>
 ```
 
 You may also add new regions if you wish by making a new directory with the appropriate 2 letter ISO Country Code (http://countrycode.org)
