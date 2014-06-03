@@ -13,9 +13,9 @@ If you would like to help contribute data specific to a region, please keep thes
     - Keep US data in the US directory, AU in the AU directory, etc.
     - Keep filenames consistent across different regions.
 2. No duplicates. Make sure that the data you are adding isn't already on the list.
-    - An easy way to check for duplicates. 
+    - An easy way to remove duplicates from your file and sort: 
 ```sh
-sort <file> | uniq -d
+sort -u <file> -o <file>
 ```
 3. Please re-sort a list if you modify it.
 ```sh
