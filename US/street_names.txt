@@ -1,100 +1,100 @@
-n stelling rd
-stevens creek blvd
-mcclellan rd
-first street
-homestead rd
-bollinger rd
-miller ave
-prospect rd
-w campbell ave
-hamilton ave
-samaritan dr
-parker rd
-hunters creek dr
-blossom hill rd
-camden ave
-e center st
-washington ave
-crockett st
-hogan st
-white oak dr
-w dallas st
-w gray st
-fairview st
-westheimer rd
-elgin st
-mcgowen st
-e little york rd
-cherry st
-cackson st
-railroad st
-sunset st
-lakeview st
-college st
-central st
-hillcrest rd
-ash dr
-taylor st
-locust rd
-poplar dr
-woodland st
-green rd
-dogwood ave
-spring st
 adams st
-preston rd
-oak lawn ave
-wycliff ave
+ash dr
 avondale ave
-mockingbird ln
-lovers ln
-walnut hill ln
-royal ln
-northaven rd
+blossom hill rd
+bollinger rd
+brown terrace
+bruce st
+cackson st
+camden ave
+central st
+cherry st
+college st
+country club rd
+crockett st
+daisy dr
+dane st
+depaul dr
+dogwood ave
+e center st
+e little york rd
+e north st
+e pecan st
+e sandy lake rd
+eason rd
+edwards rd
+elgin st
+fairview st
+fincher rd
+first street
 forest ln
+frances ct
+green rd
+groveland terrace
+hamilton ave
+harrison ct
+hickory creek dr
+hillcrest rd
+hogan st
+homestead rd
+hunters creek dr
+james st
+karen dr
+lakeshore rd
+lakeview st
+locust rd
+lone wolf trail
+lovers ln
 marsh ln
+mcclellan rd
+mcgowen st
+miller ave
+mockingbird hill
+mockingbird ln
+n stelling rd
+northaven rd
+nowlin rd
+oak lawn ave
+oak ridge ln
+paddock way
+parker rd
+pecan acres ln
+photinia ave
+plum st
+pockrus page rd
+poplar dr
+preston rd
+prospect rd
+railroad st
+ranchview dr
+robinson rd
+rolling green rd
+royal ln
+saddle dr
+samaritan dr
+shady ln dr
+smokey ln
+spring hill rd
+spring st
+spring st
+stevens creek blvd
+sunset st
+taylor st
+thornridge cir
+timber wolf trail
 valley view ln
 valwood pkwy
-w belt line rd
-e sandy lake rd
-ranchview dr
-pecan acres ln
-fincher rd
-karen dr
-oak ridge ln
-thornridge cir
-country club rd
-wheeler ridge dr
-paddock way
-nowlin rd
-saddle dr
-hickory creek dr
-groveland terrace
-robinson rd
-depaul dr
-lone wolf trail
-shady ln dr
-timber wolf trail
-daisy dr
-pockrus page rd
-photinia ave
-edwards rd
-mockingbird hill
-rolling green rd
-frances ct
-eason rd
-smokey ln
 w 6th st
-harrison ct
-lakeshore rd
-brown terrace
+w belt line rd
+w campbell ave
+w dallas st
+w gray st
 w pecan st
-spring st
-james st
-bruce st
-dane st
-e north st
 w sherman dr
-plum st
-e pecan st
-spring hill rd
+walnut hill ln
+washington ave
+westheimer rd
+wheeler ridge dr
+white oak dr
+woodland st
+wycliff ave

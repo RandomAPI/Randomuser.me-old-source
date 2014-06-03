@@ -1,46 +1,46 @@
-Sydney
-Melbourne
-Brisbane
-Perth
 Adelaide
-Tweed
-Maitland
-Queanbeyan
-Australian Capital Territory
-Sunshine Coast
-Wollongong
-Hobart
-Geelong
-Townsville
-Cairns
-Darwin
-Toowoomba
-Ballarat
-Bendigo
-Launceston
-Albury
-Mackay
-Rockhampton
-Bundaberg
-Bunbury
-Coffs Harbour
-Wagga Wagga
-Hervey Bay
-Mildura
-Shepparton
-Gladstone
-Port Macquarie
-Tamworth
-Traralgon
-Orange
-Geraldton
-Bowral
-Dubbo
-Nowra
-Bathurst
-Warrnambool
-Kalgoorlie
-Busselton
 Albany
-Warragul
+Albury
+Australian Capital Territory
+Ballarat
+Bathurst
+Bendigo
+Bowral
+Brisbane
+Bunbury
+Bundaberg
+Busselton
+Cairns
+Coffs Harbour
+Darwin
 Devonport
+Dubbo
+Geelong
+Geraldton
+Gladstone
+Hervey Bay
+Hobart
+Kalgoorlie
+Launceston
+Mackay
+Maitland
+Melbourne
+Mildura
+Nowra
+Orange
+Perth
+Port Macquarie
+Queanbeyan
+Rockhampton
+Shepparton
+Sunshine Coast
+Sydney
+Tamworth
+Toowoomba
+Townsville
+Traralgon
+Tweed
+Wagga Wagga
+Warragul
+Warrnambool
+Wollongong
