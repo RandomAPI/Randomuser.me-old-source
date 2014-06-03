@@ -12,14 +12,11 @@ If you would like to help contribute data specific to a region, please keep thes
 1. Please keep all of the data organized.
     - Keep US data in the US directory, AU in the AU directory, etc.
     - Keep filenames consistent across different regions.
-2. No duplicates. Make sure that the data you are adding isn't already on the list.
+2. Please re-sort a list if you modify it.
+3. No duplicates. Make sure that the data you are adding isn't already on the list.
     - An easy way to remove duplicates from your file and sort: 
 ```sh
 sort -u <file> -o <file>
-```
-3. Please re-sort a list if you modify it.
-```sh
-sort <file> -o <file>
 ```
 
 You may also add new regions if you wish by making a new directory with the appropriate 2 letter ISO Country Code (http://countrycode.org)
