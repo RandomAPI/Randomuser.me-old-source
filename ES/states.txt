@@ -1,0 +1,19 @@
+andalucía
+aragón
+asturias
+islas baleares
+canarias
+cantabria
+castilla la mancha
+castilla y león
+cataluña
+extremadura
+galicia
+la rioja
+comunidad de madrid
+navarra
+país vasco
+región de murcia
+comunidad valenciana
+ceuta
+melilla
