@@ -1,7 +1,5 @@
 addison
 akron
-akron
-albany
 albany
 albuquerque
 allen
