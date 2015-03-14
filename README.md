@@ -2,8 +2,8 @@ Randomuser.me Data
 ==================
 Help us make Random User Generator (RUG) better by contributing to our data!
 
-As of now, RUG only has data pertaining to the US.
-We have been working on getting the backend and API ready for the upcoming diversity update, but we are still missing the most important part: the diversity data itself.
+As of now, RUG only has data pertaining to the US and GB.
+Now that the backend can handle multiple nationalities, we need help populating it with different data.
 
 That's where you come in!
 
@@ -21,4 +21,4 @@ sort -u <file> -o <file>
 
 You may also add new regions if you wish by making a new directory with the appropriate 2 letter ISO Country Code (http://countrycode.org)
 
-And that's about it. If you have any questions, feel free to ask us on our Twitter page @randomapi
+And that's about it. If you have any questions, feel free to ask us on our Twitter page @randomapi or send us an email: support@randomapi.com
