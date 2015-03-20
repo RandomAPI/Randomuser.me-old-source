@@ -12,7 +12,7 @@ If you would like to help contribute data specific to a region, please keep thes
 1. Please keep all of the data organized.
     - Keep US data in the US directory, AU in the AU directory, etc.
     - Keep filenames consistent across different regions.
-2. Please re-sort a list if you modify it.
+2. Please re-sort a list if you modify it. (If you aren't able to sort the list, commit it with a note that it is unsorted and we will fix it for you.)
 3. No duplicates. Make sure that the data you are adding isn't already on the list.
     - An easy way to remove duplicates from your file and sort: 
 ```sh
