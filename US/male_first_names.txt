@@ -83,6 +83,7 @@ dean
 dennis
 derek
 derrick
+devon
 don
 donald
 douglas
@@ -119,6 +120,7 @@ franklin
 fred
 freddie
 frederick
+gabe
 gabriel
 gary
 gavin
@@ -145,7 +147,6 @@ ian
 isaac
 isaiah
 ivan
-jack
 jack
 jackson
 jacob
@@ -182,6 +183,7 @@ jose
 joseph
 joshua
 juan
+judd
 julian
 julio
 justin
@@ -247,6 +249,7 @@ noah
 norman
 oscar
 owen
+pat
 patrick
 paul
 pedro
@@ -312,6 +315,7 @@ tomothy
 tony
 tracy
 travis
+tristan
 troy
 tyler
 tyrone
@@ -331,8 +335,3 @@ willie
 wyatt
 zachary
 zack
-tristan
-judd
-devon
-gabe
-pat
