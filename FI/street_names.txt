@@ -2,10 +2,10 @@ Aleksanterinkatu
 Bulevardi
 Esplanadi
 Fredrikinkatu
-Hämeenkatu
-Hämeentie
 Hatanpään valtatie
 Hermiankatu
+Hämeenkatu
+Hämeentie
 Itsenäisyydenkatu
 Korkeavuorenkatu
 Mannerheimintie

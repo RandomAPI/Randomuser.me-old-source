@@ -27,7 +27,6 @@ cincinnati
 cleveland
 colorado springs
 columbus
-columbus
 coppell
 cupertino
 dayton
@@ -42,7 +41,6 @@ ennis
 escondido
 eugene
 eureka
-evansville
 evansville
 everett
 farmers branch
@@ -126,7 +124,6 @@ stanley
 stockton
 sunnyvale
 surrey
-tacoma
 tacoma
 the colony
 toledo

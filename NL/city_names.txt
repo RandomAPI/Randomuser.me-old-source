@@ -148,7 +148,6 @@ Hellevoetsluis
 Helmond
 Hendrik-Ido-Ambacht
 Hengelo
-het Bildt
 Heumen
 Heusden
 Hillegom
@@ -391,3 +390,4 @@ Zutphen
 Zwartewaterland
 Zwijndrecht
 Zwolle
+het Bildt
