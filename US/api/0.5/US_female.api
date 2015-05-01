@@ -19,6 +19,10 @@ zip        = {random, numeric, 10000, 99999}
 email      = {!first}.{!last}{random, numeric, 10, 99}@example.com
 username   = {~yw3xy4}{~vn6n1s}{random, numeric, 1, 999}
 
+job        = {array, 2}
+position   = {} // @TODO
+company    = {} // @TODO
+
 password   = {~lk4fcw}
 salt       = {random, special, 1, 8}
 $pass_salt = {!password}{!salt}
