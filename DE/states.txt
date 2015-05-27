@@ -1,4 +1,4 @@
-baden-württemberg
+baden-wÃ¼rttemberg
 bayern
 berlin
 brandenburg
@@ -13,4 +13,4 @@ saarland
 sachsen
 sachsen-anhalt
 schleswig-holstein
-thüringen
+thÃ¼ringen
