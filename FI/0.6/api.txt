@@ -1,0 +1,59 @@
+user
+$base_url   = http://api.randomuser.me/portraits/
+$version    = 0.6
+$nat        = FI
+
+gender      = {if, {#gender}, ==, , {gender}, {#gender}}
+
+name        = {array, 3}
+title       = {if, {!gender}, ==, male, mr, {~fu0h1w}}
+first       = {if, {!gender}, ==, male, {~5p5ul39}, {~q3y703p}}
+last        = {~zv1tqca}
+
+location    = {array, 4}
+street      = {random, numeric, 1000, 9999} {~jyb165g}
+city        = {~ull9ec6}
+region      = {~10a1d5a}
+zip         = {random, numeric, 10000, 99999}
+
+email       = {!first}.{!last}{random, numeric, 10, 99}@example.com
+username    = {~yw3xy4}{~vn6n1s}{random, numeric, 1, 999}
+
+password    = {~lk4fcw}
+salt        = {random, special, 1, 8}
+$pass_salt  = {!password}{!salt}
+md5         = {hash, md5, {$pass_salt}}
+sha1        = {hash, sha1, {$pass_salt}}
+sha256      = {hash, sha256, {$pass_salt}}
+
+registered  = {random, numeric, 915148800, {timestamp}}
+dob         = {random, numeric, 0, {timestamp}}
+
+// Convert timestamp of dob to calculate HETU
+$month      = {date, m, {!dob}}
+$day        = {date, d, {!dob}}
+$full_year  = {date, Y, {!dob}}
+$year       = {date, y, {!dob}}
+
+phone       = 0{random, numeric, 2, 9}-{random, special, 2,3}-{random, special, 2,3}
+cell        = 04{random, numeric, 0, 9}-{random, special, 2,3}-{random, special, 2,2}-{random, special, 2,2}
+
+// HETU calculation...this looks terrible and I really need to recode the parser into a lexer :(
+$z          = {random, numeric, 2, 9}
+$zzz        = {random, numeric, 0, 8}{random, numeric, 0, 9}{if, {!gender}, ==, male, {if, {math, {$z} % 2}, ==, 0, {$z}, {math, {$z}-1}}, {if, {math, {$z} % 2}, !=, 0, {$z}, {math, {$z}+1}}}
+
+// Control character calculation
+$cc          = {~dtfqf3i, {math, ({$day}{$month}{$year}{$zzz})%31}}
+
+// Final HETU
+HETU        = {$day}{$month}{$year}{if, {$full_year}, >=, 2000, A, -}{$zzz}Q
+
+picture     = {array, 3}
+$pic_id     = {if, {!gender}, ==, male, {random, numeric, 0, 99}, {random, numeric, 0, 96}}
+large       = {if, {!gender}, ==, male, {$base_url}men/{$pic_id}.jpg, {$base_url}women/{$pic_id}.jpg}
+medium      = {if, {!gender}, ==, male, {$base_url}med/men/{$pic_id}.jpg, {$base_url}med/women/{$pic_id}.jpg}
+thumbnail   = {if, {!gender}, ==, male, {$base_url}thumb/men/{$pic_id}.jpg, {$base_url}thumb/women/{$pic_id}.jpg}
+
+version     = {$version}
+
+nationality = {$nat}

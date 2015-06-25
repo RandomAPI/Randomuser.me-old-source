@@ -1,0 +1,50 @@
+user
+$base_url   = http://api.randomuser.me/portraits/
+$version    = 0.6
+$nat        = FR
+
+gender      = {if, {#gender}, ==, , {gender}, {#gender}}
+
+name        = {array, 3}
+title       = {if, {!gender}, ==, male, m, {~6ukevye}}
+first       = {if, {!gender}, ==, male, {~xtxwu9d}, {~wzqtnql}}
+last        = {~i2hwvx3}
+
+location    = {array, 4}
+street      = {random, numeric, 1000, 9999} {~z5pnh2r}
+city        = {~5qyzihu}
+state       = {~7rmgsok}
+zip         = {random, numeric, 10000, 99999}
+
+email       = {!first}.{!last}{random, numeric, 10, 99}@example.com
+username    = {~yw3xy4}{~vn6n1s}{random, numeric, 1, 999}
+
+password    = {~lk4fcw}
+salt        = {random, special, 1, 8}
+$pass_salt  = {!password}{!salt}
+md5         = {hash, md5, {$pass_salt}}
+sha1        = {hash, sha1, {$pass_salt}}
+sha256      = {hash, sha256, {$pass_salt}}
+
+registered  = {random, numeric, 915148800, {timestamp}}
+dob         = {random, numeric, 0, {timestamp}}
+
+// Convert timestamp of dob to calculate INSEE
+$month      = {date, m, {!dob}}
+$day        = {date, d, {!dob}}
+$year       = {date, y, {!dob}}
+
+phone       = 0{random, numeric, 1, 5}-{random, special, 2, 2}-{random, special, 2, 2}-{random, special, 2, 2}-{random, special, 2, 2}
+cell        = 06-{random, special, 2, 2}-{random, special, 2, 2}-{random, special, 2, 2}-{random, special, 2, 2}
+
+INSEE       = {if, {!gender}, ==, male, 1, 2}{$year}{$month}{random, special, 2, 2}{random, special, 2, 6} {random, special, 2, 1}{random, numeric, 0, 7}
+
+picture     = {array, 3}
+$pic_id     = {if, {!gender}, ==, male, {random, numeric, 0, 99}, {random, numeric, 0, 96}}
+large       = {if, {!gender}, ==, male, {$base_url}men/{$pic_id}.jpg, {$base_url}women/{$pic_id}.jpg}
+medium      = {if, {!gender}, ==, male, {$base_url}med/men/{$pic_id}.jpg, {$base_url}med/women/{$pic_id}.jpg}
+thumbnail   = {if, {!gender}, ==, male, {$base_url}thumb/men/{$pic_id}.jpg, {$base_url}thumb/women/{$pic_id}.jpg}
+
+version     = {$version}
+
+nationality = {$nat}

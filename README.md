@@ -30,6 +30,7 @@ Randomuser.me is powered by our other service, [RandomAPI](https://randomapi.com
 Please register for free [here](https://randomapi.com/signup) and follow the tutorial/documentation in order to make your own API. If you need any help, feel free to email us: support [at] randomapi.com
 
 Once you have crafted your beautiful API, go to the API manager, click the green download arrow, and select "Simple Export".
-This will download a zip file containing your API source code along with the lists contents that it references. Copy this files into the region folder that it belongs too and send us a pull request!
+This will download a zip file containing your API source code along with the lists contents that it references. Copy this files into the region folder that it belongs to and send us a pull request!
 
-If you have any questions, feel free to ask us on our Twitter page @randomapi or send us an email: support [at] randomapi.com
+If you have any questions, feel free to ask us on our Twitter page [@randomapi](https://twitter.com/randomapi) or send us an email: support [at] randomapi.com
+

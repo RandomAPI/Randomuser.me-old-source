@@ -1,0 +1,142 @@
+addison
+akron
+akron
+albany
+albany
+albuquerque
+allen
+altoona
+anna
+arlington
+aubrey
+bakersfield
+belen
+bernalillo
+billings
+boise
+boulder
+bozeman
+bueblo
+buffalo
+burkburnett
+caldwell
+cape fear
+carrollton
+cedar hill
+celina
+charlotte
+cincinnati
+cleveland
+colorado springs
+columbus
+columbus
+coppell
+cupertino
+dayton
+denver
+desoto
+detroit
+dumas
+duncanville
+edgewood
+elko
+ennis
+escondido
+eugene
+eureka
+evansville
+evansville
+everett
+farmers branch
+fayetteville
+flint
+flowermound
+forney
+fort collins
+fort wayne
+fountain valley
+frederick
+fremont
+fresno
+frisco
+garland
+grand prairie
+grand rapids
+grants pass
+grapevine
+great falls
+greeley
+greensboro
+hamsburg
+helena
+henderson
+indianapolis
+iowa park
+ironville
+joliet
+lancaster
+lansing
+las vegas
+lewiston
+lexington
+long beach
+los angeles
+los lunas
+lousville
+lowell
+medford
+memphis
+mesquite
+modesto
+moscow
+nampa
+nashville
+new haven
+new york
+north valley
+pittsburgh
+plano
+portland
+princeton
+providence
+provo
+raleigh
+red bluff
+red oak
+redding
+richardson
+rio rancho
+roanoke
+rochester
+rochmond
+roseburg
+sacramento
+saginaw
+salem
+salt lake city
+san diego
+san jose
+scurry
+seagoville
+seattle
+seymour
+shelby
+shiloh
+south valley
+spokane
+stanley
+stockton
+sunnyvale
+surrey
+tacoma
+tacoma
+the colony
+toledo
+utica
+van alstyne
+vernon
+waxahachie
+wichita falls
+wilmington
+yakima
+york
