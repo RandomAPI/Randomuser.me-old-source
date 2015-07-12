@@ -32,7 +32,7 @@ Please register for free [here](https://randomapi.com/signup) and follow the tut
 If you'd like an example to follow, you can copy the US/0.6 API to your RandomAPI account by clicking search from the homepage and searching for "US/0.6". You can then view the lists in the list manager and the API source code from the API manager.
 
 Once you have crafted your beautiful API, go to the API manager, click the green download arrow, and select "Simple Export".
-This will download a zip file containing your API source code along with the lists' contents that it references. Copy theseli files into the region folder that it belongs to and send us a pull request!
+This will download a zip file containing your API source code along with the lists' contents that it references. Copy these files into the region folder that it belongs to and send us a pull request!
 
 If you have any questions, feel free to ask us on our Twitter page [@randomapi](https://twitter.com/randomapi) or send us an email: support [at] randomapi.com
 
