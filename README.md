@@ -26,7 +26,7 @@ Just place your files in a new directory with the appropriate 2 letter ISO Count
 And don't worry abut the version number...we'll handle that stuff.
 
 ### So how do I contribute?
-Send us a pull request with the lists that are unique to the nationality. Things like first/last names, city names, and street names would be considered unique while usernames and generated passwords would be considered soemthing common that is shared between all of the nationalities.
+Send us a pull request with the lists that are unique to the nationality. Things like first/last names, city names, and street names would be considered unique while usernames and generated passwords would be considered something common that is shared between all of the nationalities.
 
 If you have any questions, feel free to ask us on our Twitter page [@randomapi](https://twitter.com/randomapi) or send us an email: support [at] randomapi.com
 
