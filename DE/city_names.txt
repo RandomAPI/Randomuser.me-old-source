@@ -107,6 +107,7 @@ fulda
 fürstenfeldbruck
 fürth
 fürth
+ganderkesee
 garmisch-partenkirchen
 gelsenkirchen
 gera
@@ -130,9 +131,11 @@ halle (saale)
 hamburg
 hameln-pyrmont
 hamm
+hameln
 hannover
 harburg
 harz
+hasbergen
 haßberge
 havelland
 heidelberg
@@ -283,6 +286,7 @@ salzgitter
 salzland
 sankt wendel
 schaumburg
+schierbrok
 schleswig-flensburg
 schmalkalden-meiningen
 schwabach
