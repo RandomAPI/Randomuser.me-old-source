@@ -14,7 +14,7 @@ location    = {array, 4}
 street      = {random, numeric, 1, 9999} {~gs3eycw}
 city        = {~ct59ota}
 state       = {~hdkeh4h}
-zip         = {random, numeric, 200, 9999}
+zip         = {random, numeric, 1000, 9999}
 
 email       = {!first}.{!last}{random, numeric, 10, 99}@example.com
 username    = {~yw3xy4}{~vn6n1s}{random, numeric, 1, 999}
