@@ -29,8 +29,8 @@ sha256      = {hash, sha256, {$pass_salt}}
 registered  = {random, numeric, 915148800, {timestamp}}
 dob         = {random, numeric, 0, {timestamp}}
 
-phone       = ({random, numeric, 100, 999})-{random, numeric, 100, 999}-{random, numeric, 1000, 9999}
-cell        = ({random, numeric, 100, 999})-{random, numeric, 100, 999}-{random, numeric, 1000, 9999}
+phone       = ({random, numeric, 200, 999})-{random, numeric, 100, 999}-{random, numeric, 1000, 9999}
+cell        = ({random, numeric, 200, 999})-{random, numeric, 100, 999}-{random, numeric, 1000, 9999}
 
 SSN         = {random, numeric, 100, 999}-{random, numeric, 10, 99}-{random, numeric, 1000, 9999}
 
