@@ -1,9 +1,0 @@
-API: 0.5 - Male - US
-oy859x - Male first names - US
-1zcz06 - Last names - US 
-nofqxe - Street names - US
-zoocot - Cities - US
-fwypla - States - US
-yw3xy4 - Username part 1
-vn6n1s - Username part 2
-lk4fcw - Passwords

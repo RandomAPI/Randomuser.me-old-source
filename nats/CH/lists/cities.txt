@@ -1,0 +1,106 @@
+aclens
+assens
+auboranges
+ballens
+belmont-sur-Lausanne
+bercher
+berolle
+bettens
+bioley-Magnoux
+bioley-Orjulaz
+bottens
+boulens
+bournens
+boussens
+bremblens
+bretigny-sur-Morrens
+bussigny
+bussy-Chardonney
+carrouge VD
+chapelle-sur-Moudon
+chavannes-près-Renens
+cheseaux-sur-Lausanne
+clarmont
+colombier VD
+corcelles-le-Jorat
+cottens VD
+crissier
+cugy VD
+cully
+denens
+dommartin
+echallens
+echandens-Denges
+echichens
+ecublens VD
+epalinges
+epautheyres
+epesses
+essertes
+etagnières
+ferlens VD
+fey
+froideville
+gollion
+grancy
+la Conversion
+lausanne
+lausanne Adm cant VD
+le Mont-sur-Lausanne
+les Cullayes
+lonay
+lully VD
+lussy-sur-Morges
+lutry
+mollens VD
+mollie-Margot
+monnaz
+montpreveyres
+montricher
+morges
+morges 1
+morges 2
+morrens VD
+mézières VD
+ogens
+oulens-sous-Echallens
+pampigny
+paudex
+peney-le-Jorat
+peyres-Possens
+poliez-Pittet
+poliez-le-Grand
+prilly
+préverenges
+pully
+renens VD
+renens VD 1
+renens VD 2
+reverolle
+riex
+romanel-sur-Lausanne
+romanel-sur-Morges
+ropraz
+savigny
+senarclens
+servion
+sottens
+st-Barthélemy VD
+st-Cierges
+st-Saphorin-sur-Morges
+st-Sulpice VD
+sugnens
+sullens
+syens
+thierrens
+tolochenaz
+vaux-sur-Morges
+villars-Mendraz
+villars-Tiercelin
+villars-le-Terroir
+villars-sous-Yens
+vucherens
+vufflens-le-Château
+vulliens
+vullierens
+yens

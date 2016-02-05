@@ -1,0 +1,26 @@
+aargau
+appenzell Ausserrhoden
+appenzell Innerrhoden
+basel-Landschaft
+basel-Stadt
+bern
+fribourg
+genève
+glarus
+graubünden
+jura
+luzern
+neuchâtel
+nidwalden
+obwalden
+schaffhausen
+schwyz
+solothurn
+st. Gallen
+thurgau
+ticino
+uri
+valais
+vaud
+zug
+zürich
