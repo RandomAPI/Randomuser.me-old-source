@@ -1,8 +1,8 @@
 aargau
-appenzell Ausserrhoden
-appenzell Innerrhoden
-basel-Landschaft
-basel-Stadt
+appenzell ausserrhoden
+appenzell innerrhoden
+basel-landschaft
+basel-stadt
 bern
 fribourg
 genève
@@ -16,7 +16,7 @@ obwalden
 schaffhausen
 schwyz
 solothurn
-st. Gallen
+st. gallen
 thurgau
 ticino
 uri

@@ -1,25 +1,24 @@
+avenue de l'abbé-roussel
+avenue de la libération
+avenue de la république
 avenue debourg
 avenue debrousse
+avenue des ternes
+avenue du château
+avenue du fort-caire
 avenue goerges clémenceau
 avenue jean-jaurès
 avenue joliot curie
 avenue paul eluard
 avenue tony-garnier
 avenue vauban
-avenue de l'abbé-roussel
-avenue de la libération
-avenue de la république
-avenue des ternes
-avenue du château
-avenue du fort-caire
 boulevard de balmont
 boulevard de la duchère
 cours charlemagne
 esplanade du 9 novembre 1989
 grande rue
-montée saint-barthélémy
 montée du chemin-neuf
-place paul-duquaire
+montée saint-barthélémy
 place de l'abbé-basset
 place de l'abbé-franz-stock
 place de l'abbé-georges-hénocque
@@ -31,6 +30,7 @@ place des 44 enfants d'izieu
 place du 22 novembre 1943
 place du 8 février 1962
 place du 8 novembre 1942
+place paul-duquaire
 quai charles-de-gaulle
 quai chauveau
 route de genas
@@ -48,9 +48,46 @@ rue bossuet
 rue chazière
 rue courbet
 rue cyrus-hugues
+rue d'abbeville
+rue de bonnel
+rue de cuire
+rue de gerland
+rue de l'abbaye
+rue de l'abbé-carton
+rue de l'abbé-de-l'épée
+rue de l'abbé-gillet
+rue de l'abbé-groult
+rue de l'abbé-grégoire
+rue de l'abbé-migne
+rue de l'abbé-patureau
+rue de l'abbé-roger-derry
+rue de l'abbé-rousselot
+rue de l'abbé-soulange-bodin
+rue de l'église
+rue de la baleine
+rue de la barre
+rue de la charité
+rue de la fontaine
+rue de la gare
+rue de la mairie
 rue denfert-rochereau
+rue des abbesses
+rue des chartreux
+rue des cuirassiers
+rue des ecrivains
+rue des jardins
+rue des écoles
 rue desaix
 rue docteur-bonhomme
+rue du 8 mai 1945
+rue du bon-pasteur
+rue du bât-d'argent
+rue du cardinal-gerlier
+rue du château
+rue du dauphiné
+rue du moulin
+rue du stade
+rue du village
 rue dubois
 rue dugas-montbel
 rue duguesclin
@@ -68,40 +105,3 @@ rue pierre-delore
 rue principale
 rue saint-georges
 rue victor-hugo
-rue d'abbeville
-rue de bonnel
-rue de cuire
-rue de gerland
-rue de l'abbaye
-rue de l'abbé-carton
-rue de l'abbé-gillet
-rue de l'abbé-groult
-rue de l'abbé-grégoire
-rue de l'abbé-migne
-rue de l'abbé-patureau
-rue de l'abbé-roger-derry
-rue de l'abbé-rousselot
-rue de l'abbé-soulange-bodin
-rue de l'abbé-de-l'épée
-rue de l'église
-rue de la baleine
-rue de la barre
-rue de la charité
-rue de la fontaine
-rue de la gare
-rue de la mairie
-rue des abbesses
-rue des chartreux
-rue des cuirassiers
-rue des ecrivains
-rue des jardins
-rue des écoles
-rue du 8 mai 1945
-rue du bon-pasteur
-rue du bât-d'argent
-rue du cardinal-gerlier
-rue du château
-rue du dauphiné
-rue du moulin
-rue du stade
-rue du village

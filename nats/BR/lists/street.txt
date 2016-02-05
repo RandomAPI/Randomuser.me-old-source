@@ -1,67 +1,67 @@
-Avenida Brasil 
-Avenida D. Pedro II
-Avenida da Democracia
-Avenida da Legalidade
-Avenida Vinícius de Morais
-Beco dos Namorados
-Rua Alagoas 
-Rua Amazonas 
-Rua Bela Vista 
-Rua Belo Horizonte 
-Rua Boa Vista 
-Rua Carlos Gomes
-Rua Castro Alves 
-Rua Da Paz 
-Rua da Saudade
-Rua Das Flores 
-Rua Dezenove de Outubro
-Rua Dezesseis de Maio
-Rua Dezessete 
-Rua Dois
-Rua Dom Pedro II 
-Rua Doze 
-Rua Duque De Caxias 
-Rua Espirito Santo 
-Rua João XXIII
-Rua José Bonifácio 
-Rua Maranhão 
-Rua Mato Grosso 
-Rua Minas Gerais 
-Rua Onze 
-Rua Pará 
-Rua Paraíba 
-Rua Paraná 
-Rua Pernambuco 
-Rua Piauí 
-Rua Primeiro de Maio 
-Rua Principal
-Rua Quatro
-Rua Quinze De Novembro 
-Rua Rio De Janeiro 
-Rua Rui Barbosa 
-Rua Santa Catarina 
-Rua Santa Luzia 
-Rua Santa Maria 
-Rua Santa Rita 
-Rua Santo Antônio 
-Rua Santos Dumont 
-Rua São Francisco 
-Rua São João 
-Rua São Jorge 
-Rua São José 
-Rua São Luiz 
-Rua São Paulo 
-Rua São Pedro 
-Rua São Sebastiao 
-Rua Sete de Setembro 
-Rua Tiradentes 
-Rua Três
-Rua Treze 
-Rua Treze De Maio 
-Rua Um
-Rua Vinte de Setembro
-Rua Vinte e Dois 
-Rua Vinte e Quatro de Outubro
-Rua Vinte e Um
-Travessa dos Açorianos
-Travessa dos Martírios
+avenida brasil 
+avenida d. pedro ii
+avenida da democracia
+avenida da legalidade
+avenida vinícius de morais
+beco dos namorados
+rua alagoas 
+rua amazonas 
+rua bela vista 
+rua belo horizonte 
+rua boa vista 
+rua carlos gomes
+rua castro alves 
+rua da paz 
+rua da saudade
+rua das flores 
+rua dezenove de outubro
+rua dezesseis de maio
+rua dezessete 
+rua dois
+rua dom pedro ii 
+rua doze 
+rua duque de caxias 
+rua espirito santo 
+rua josé bonifácio 
+rua joão xxiii
+rua maranhão 
+rua mato grosso 
+rua minas gerais 
+rua onze 
+rua paraná 
+rua paraíba 
+rua pará 
+rua pernambuco 
+rua piauí 
+rua primeiro de maio 
+rua principal
+rua quatro
+rua quinze de novembro 
+rua rio de janeiro 
+rua rui barbosa 
+rua santa catarina 
+rua santa luzia 
+rua santa maria 
+rua santa rita 
+rua santo antônio 
+rua santos dumont 
+rua sete de setembro 
+rua são francisco 
+rua são jorge 
+rua são josé 
+rua são joão 
+rua são luiz 
+rua são paulo 
+rua são pedro 
+rua são sebastiao 
+rua tiradentes 
+rua treze 
+rua treze de maio 
+rua três
+rua um
+rua vinte de setembro
+rua vinte e dois 
+rua vinte e quatro de outubro
+rua vinte e um
+travessa dos açorianos
+travessa dos martírios

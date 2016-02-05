@@ -7,18 +7,18 @@ greymouth
 hamilton
 hastings
 invercargill
-lower Hutt
+lower hutt
 masterton
 napier
 nelson
-new Plymouth
-palmerston North
+new plymouth
+palmerston north
 porirua
 rotorua
 taupo
 tauranga
 timaru
-upper Hutt
+upper hutt
 wellington
 whanganui
 whangarei

@@ -1,3 +1,4 @@
+'s-hertogenbosch
 aa en hunze
 aalburg
 aalsmeer
@@ -67,15 +68,15 @@ dalfsen
 dantumadiel
 de bilt
 de friese meren
+de marne
+de ronde venen
+de wolden
 delft
 delfzijl
-de marne
 den haag
 den helder
-de ronde venen
 deurne
 deventer
-de wolden
 diemen
 dinkelland
 doesburg
@@ -245,8 +246,8 @@ oldenzaal
 olst-wijhe
 ommen
 onderbanken
-oosterhout
 oost gelre
+oosterhout
 ooststellingwerf
 oostzaan
 opmeer
@@ -287,7 +288,6 @@ schiermonnikoog
 schijndel
 schinnen
 schouwen-duiveland
-'s-hertogenbosch
 simpelveld
 sint anthonis
 sint-michielsgestel
@@ -357,10 +357,10 @@ waterland
 weert
 weesp
 werkendam
+west maas en waal
 westerveld
 westervoort
 westland
-west maas en waal
 weststellingwerf
 westvoorne
 wierden

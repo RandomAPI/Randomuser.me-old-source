@@ -20,7 +20,7 @@ clinton
 cochrane
 cornwall
 cumberland
-deer Lake
+deer lake
 delisle
 delta
 dorchester
@@ -32,7 +32,7 @@ flatrock
 fountainbleu
 georgetown
 glenwood
-grand Falls
+grand falls
 greenwood
 hampstead
 hampton
@@ -52,34 +52,34 @@ maidstone
 maitland
 melbourne
 minto
-new Glasgow
-notre Dame de Lourdes
+new glasgow
+notre dame de lourdes
 oakville
 odessa
-port Elgin
+port elgin
 princeton
 radisson
-red Rock
+red rock
 richmond
 russell
-sandy Lake
+sandy lake
 selkirk
 shelbourne
 sherbrooke
 sidney
 souris
-south River
+south river
 southampton
 springfield
-st. Antoine
-st. George
+st. antoine
+st. george
 stirling
 stratford
 summerside
 sutton
 tecumseh
 trenton
-trout Lake
+trout lake
 vanier
 victoria
 waterloo

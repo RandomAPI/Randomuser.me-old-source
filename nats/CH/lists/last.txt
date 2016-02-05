@@ -19,7 +19,7 @@ charles
 chevalier
 clement
 colin
-da Silva
+da silva
 david
 denis
 deschamps
@@ -57,7 +57,7 @@ joly
 lacroix
 lambert
 laurent
-le Gall
+le gall
 leclerc
 leclercq
 lecomte

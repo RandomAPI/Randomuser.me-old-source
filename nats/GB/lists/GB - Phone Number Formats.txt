@@ -1,7 +1,4 @@
-01{random, special, 2, 3} {random, special, 2, 5}
-01{random, special, 2, 3} {random, special, 2, 6}
 011{random, special, 2, 1} {random, special, 2, 3} {random, special, 2, 4}
-01{random, special, 2, 1}1 {random, special, 2, 3} {random, special, 2, 4}
 013873 {random, special, 2, 5}
 015242 {random, special, 2, 5}
 015394 {random, special, 2, 5}
@@ -15,4 +12,7 @@
 017684 {random, special, 2, 5}
 017687 {random, special, 2, 5}
 019467 {random, special, 2, 5}
+01{random, special, 2, 1}1 {random, special, 2, 3} {random, special, 2, 4}
+01{random, special, 2, 3} {random, special, 2, 5}
+01{random, special, 2, 3} {random, special, 2, 6}
 02{random, special, 2, 1} {random, special, 2, 4} {random, special, 2, 4}

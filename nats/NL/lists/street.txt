@@ -6,8 +6,8 @@ adriaen van ostadelaan
 agnietenstraat
 alexander numankade
 ambachtstraat
-amsterdamsestraatweg
 amsterdamse-straatweg
+amsterdamsestraatweg
 annastraat
 baden-powellweg
 berekuil
@@ -58,8 +58,8 @@ israëlslaan
 jaarbeursplein
 jacobijnenstraat
 jan pieterszoon coenstraat
-janskerkhof
 jan van scorelstraat
+janskerkhof
 jutfaseweg
 kanaalstraat
 kanaalweg
@@ -97,8 +97,8 @@ muntstraat
 nachtegaalstraat
 neude
 nicolaasweg
-nieuwegracht
 nieuwe houtenseweg
+nieuwegracht
 nobeldwarsstraat
 nobelstraat
 oorsprongpark
@@ -132,8 +132,8 @@ twijnstraat
 twijnstraat aan de werf
 van asch van wijckskade
 van limburg stirumstraat
-veeartsenijpad
 veeartsenij-pad
+veeartsenijpad
 vismarkt
 vleutenseweg
 vondellaan

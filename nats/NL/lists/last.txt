@@ -1,3 +1,9 @@
+'t hart
+'t hoen
+'t hooft
+'t jong
+'t lam
+'t mannetje
 aafjes
 aaftink
 aalbers
@@ -169,8 +175,8 @@ arentsen
 arets
 aretz
 ariaans
-ariëns
 arink
+ariëns
 arkema
 arkenbout
 arkes
@@ -238,7 +244,6 @@ baelemans
 baert
 baeten
 baetsen
-bağci
 baggen
 baggerman
 bah
@@ -314,7 +319,6 @@ barten
 barth
 bartholomeus
 bas
-baş
 baselmans
 bassa
 bast
@@ -341,6 +345,8 @@ bayram
 bazelmans
 bazen
 bazuin
+bağci
+baş
 beaumont
 bechan
 becht
@@ -690,8 +696,6 @@ bogaerts
 bogerd
 bogers
 bogert
-böhm
-böhmer
 boiten
 bok
 bokhorst
@@ -1024,8 +1028,8 @@ bruinewoud
 bruining
 bruinink
 bruins
-bruinsma
 bruins slot
+bruinsma
 bruintjes
 bruls
 brummel
@@ -1041,9 +1045,9 @@ bruntink
 brus
 brussaard
 brusse
-brussé
 brussee
 brussen
+brussé
 bruurs
 budak
 budde
@@ -1129,11 +1133,10 @@ buuron
 buursma
 buwalda
 buys
+böhm
+böhmer
 cairo
-çakir
-çakmak
 calis
-çalişkan
 cameron
 camp
 campfens
@@ -1159,10 +1162,7 @@ cazemier
 cecilia
 ceelen
 celie
-çelik
 centen
-çetin
-çetinkaya
 ceylan
 chan
 chang
@@ -1186,12 +1186,9 @@ christiaens
 christianen
 chu
 chung
-çiçek
 cicilia
-çiftçi
 cijntje
 cillessen
-çinar
 claasen
 claassen
 claassens
@@ -1208,7 +1205,6 @@ clerx
 cleven
 cloosterman
 cnossen
-çoban
 cobben
 cobussen
 coenders
@@ -1218,13 +1214,12 @@ coers
 coffie
 cohen
 cok
-çolak
 colen
 colenbrander
 colijn
-collé
 collet
 collignon
+collé
 combee
 commandeur
 compagner
@@ -1255,14 +1250,13 @@ corstjens
 corten
 corver
 corvers
-cörvers
-coşkun
 coster
 coumans
 couperus
 couwenberg
 cox
 cozijnsen
+coşkun
 craane
 crama
 cramer
@@ -1290,6 +1284,8 @@ curiel
 curvers
 custers
 cuypers
+cörvers
+da silva
 daal
 daalder
 daalhuizen
@@ -1303,7 +1299,6 @@ daas
 daemen
 daems
 daenen
-dağ
 dahmen
 dalebout
 dalhuisen
@@ -1331,7 +1326,6 @@ dannenberg
 dantuma
 daoudi
 das
-da silva
 dasselaar
 dassen
 datema
@@ -1343,6 +1337,7 @@ davidse
 davidson
 davies
 davis
+dağ
 de baar
 de baat
 de backer
@@ -1353,10 +1348,8 @@ de beijer
 de bekker
 de bel
 de best
-debets
 de beurs
 de beus
-debie
 de bie
 de bijl
 de blaauw
@@ -1387,7 +1380,6 @@ de bruin
 de bruine
 de bruyn
 de buck
-deckers
 de cock
 de coninck
 de crom
@@ -1395,11 +1387,6 @@ de cuba
 de deugd
 de dood
 de dreu
-deelen
-deelstra
-deen
-deenen
-dees
 de feijter
 de fijter
 de fouw
@@ -1409,9 +1396,6 @@ de gans
 de gast
 de geest
 de gelder
-degeling
-degen
-degens
 de geus
 de gier
 de goede
@@ -1442,9 +1426,6 @@ de hooge
 de hoogh
 de hoon
 de hoop
-deij
-deijkers
-deinum
 de jager
 de jeu
 de jong
@@ -1452,15 +1433,11 @@ de jonge
 de jongh
 de jongste
 de joode
-dek
 de kam
 de kanter
 de keijzer
 de keizer
-dekens
 de kievit
-dekker
-dekkers
 de kleijn
 de klein
 de kleine
@@ -1491,38 +1468,29 @@ de kuijer
 de kuijper
 de kuiper
 de kwant
+de la rie
 de laat
 de lang
 de lange
 de langen
-de la rie
 de leede
 de leest
 de leeuw
 de lepper
 de leur
-delfos
-delgado
 de ligt
 de lijster
-delissen
 de looff
 de loos
 de looze
 de lorijn
 de louw
-delsing
 de maat
 de man
-demandt
 de meer
 de meij
 de meijer
 de mik
-demir
-demirci
-demirel
-demmers
 de moel
 de mol
 de mooij
@@ -1530,57 +1498,11 @@ de moor
 de mos
 de munck
 de munnik
-den adel
-den bakker
-den besten
-den blanken
-den boef
-den boer
-den braber
-den braven
-den breejen
-den broeder
-den brok
-den butter
-den daas
-den dekker
-den drijver
-den dulk
-den dunnen
 de neef
-denekamp
-den elzen
-den engelsman
-den exter
-den haan
-den hamer
-den hartigh
-den hartog
-den hartogh
-den heijer
-den herder
-den hertog
-den hoed
-den hoedt
-den hollander
 de niet
 de nijs
-denis
-denissen
-deniz
-denkers
-denneman
 de nooij
 de nooijer
-den os
-den otter
-den ouden
-den oudsten
-den outer
-den ridder
-den teuling
-den toom
-den uijl
 de olde
 de oude
 de paauw
@@ -1605,12 +1527,6 @@ de ridder
 de rijcke
 de rijk
 de rijke
-derikx
-derix
-der kinderen
-derks
-derksen
-derkx
 de roij
 de ron
 de rond
@@ -1634,8 +1550,6 @@ de smidt
 de smit
 de snoo
 de swart
-deurloo
-deutekom
 de vaal
 de vaan
 de valk
@@ -1647,7 +1561,6 @@ de vente
 de vet
 de veth
 de vette
-devilee
 de vink
 de visser
 de vlaming
@@ -1703,6 +1616,88 @@ de zeeuw
 de zoete
 de zwaan
 de zwart
+debets
+debie
+deckers
+deelen
+deelstra
+deen
+deenen
+dees
+degeling
+degen
+degens
+deij
+deijkers
+deinum
+dek
+dekens
+dekker
+dekkers
+delfos
+delgado
+delissen
+delsing
+demandt
+demir
+demirci
+demirel
+demmers
+den adel
+den bakker
+den besten
+den blanken
+den boef
+den boer
+den braber
+den braven
+den breejen
+den broeder
+den brok
+den butter
+den daas
+den dekker
+den drijver
+den dulk
+den dunnen
+den elzen
+den engelsman
+den exter
+den haan
+den hamer
+den hartigh
+den hartog
+den hartogh
+den heijer
+den herder
+den hertog
+den hoed
+den hoedt
+den hollander
+den os
+den otter
+den ouden
+den oudsten
+den outer
+den ridder
+den teuling
+den toom
+den uijl
+denekamp
+denis
+denissen
+deniz
+denkers
+denneman
+der kinderen
+derikx
+derix
+derks
+derksen
+derkx
+deurloo
+deutekom
+devilee
 diallo
 dibbets
 dickhoff
@@ -1756,12 +1751,12 @@ dikmans
 diks
 dillen
 dimmendaal
-dinç
 dingemans
 dingemanse
 dingenouts
 dings
 dinnissen
+dinç
 dirks
 dirkse
 dirksen
@@ -1818,7 +1813,6 @@ donker
 donkers
 donkersloot
 donkervoort
-dönmez
 donners
 donselaar
 doodeman
@@ -1835,7 +1829,6 @@ doornkamp
 doorten
 doppenberg
 doran
-dörenberg
 dorenbos
 dorgelo
 dorland
@@ -1878,7 +1871,6 @@ driessens
 drijfhout
 drijver
 drissen
-dröge
 drogt
 drok
 dronkers
@@ -1888,13 +1880,14 @@ dros
 drost
 droste
 drummen
+dröge
+du bois
 dubbelaar
 dubbeld
 dubbeldam
 dubbelman
 dubbink
 dubois
-du bois
 duchateau
 dudink
 dudok
@@ -1943,6 +1936,8 @@ dussel
 dusseljee
 duursma
 dwars
+dönmez
+dörenberg
 ebben
 ebbers
 ebbing
@@ -2008,9 +2003,16 @@ ekkel
 ekkelboom
 ekkelenkamp
 el amrani
+el azzouzi
+el hamdaoui
+el idrissi
+el kaddouri
+el messaoudi
+el morabet
+el morabit
+el moussaoui
 eland
 elands
-el azzouzi
 elbers
 elberse
 elbertse
@@ -2027,22 +2029,15 @@ elferink
 elfring
 elfrink
 elgersma
-el hamdaoui
 elias
-el idrissi
 elings
 elissen
-el kaddouri
 ellen
 ellenbroek
 ellens
 elling
 ellis
-el messaoudi
 elmi
-el morabet
-el morabit
-el moussaoui
 elschot
 elsendoorn
 elshof
@@ -2382,8 +2377,6 @@ glorie
 gloudemans
 gnodde
 go
-göbbels
-göbel
 goddijn
 godding
 godijn
@@ -2401,7 +2394,6 @@ goeree
 goertz
 goes
 goessens
-gök
 golsteijn
 gomes
 gomez
@@ -2509,6 +2501,8 @@ grolleman
 grondman
 groos
 groot
+groot koerkamp
+groot wassink
 groote
 grooteman
 grooten
@@ -2521,10 +2515,8 @@ groothedde
 groothuis
 groothuizen
 grootjans
-groot koerkamp
 grootscholten
 grootveld
-groot wassink
 gros
 grotenhuis
 gruben
@@ -2535,19 +2527,22 @@ gudde
 guichelaar
 guijt
 guit
-gül
 guldemond
-güler
 gulikers
 gulpen
 gumbs
-gündüz
-güneş
-güngör
 gunnink
 gunsing
 gunter
 gunther
+göbbels
+göbel
+gök
+gül
+güler
+gündüz
+güneş
+güngör
 gürbüz
 güzel
 haagen
@@ -3042,7 +3037,6 @@ hollink
 holman
 hols
 holsappel
-hölscher
 holst
 holstege
 holstein
@@ -3057,7 +3051,6 @@ holtman
 holtrop
 holtslag
 holwerda
-hölzken
 homan
 homburg
 homma
@@ -3205,8 +3198,8 @@ huijts
 huijzer
 huinink
 huis
-huisinga
 huis in 't veld
+huisinga
 huisjes
 huiskamp
 huisken
@@ -3265,6 +3258,8 @@ huurdeman
 huurman
 huynh
 huzen
+hölscher
+hölzken
 ibrahim
 ibrahimi
 idema
@@ -3291,22 +3286,22 @@ immerzeel
 imming
 immink
 imthorn
-inan
-ince
-in den bosch
 in 't groen
 in 't hout
 in 't veen
 in 't veld
+in den bosch
+inan
+ince
 ippel
 iqbal
 isenia
-işik
 ismail
 israël
 issa
 ivens
 iwema
+işik
 jaarsma
 jackson
 jacob
@@ -3316,7 +3311,6 @@ jacobse
 jacobsen
 jager
 jagers
-jägers
 jagersma
 jagesar
 jagroep
@@ -3430,6 +3424,7 @@ jurgens
 jurjens
 jurriens
 jutte
+jägers
 kaag
 kaagman
 kaak
@@ -3642,8 +3637,8 @@ kik
 kikkert
 kil
 kilian
-kiliç
 kilinç
+kiliç
 kimenai
 kin
 kind
@@ -3688,12 +3683,12 @@ kleijnen
 kleijweg
 kleijwegt
 klein
+klein gunnewiek
+klein nagelvoort
 kleine
 kleinendorst
 kleingeld
-klein gunnewiek
 kleinjan
-klein nagelvoort
 kleinsman
 kleinveld
 klep
@@ -3790,9 +3785,7 @@ knuiman
 knulst
 kobes
 kobus
-koç
 koca
-koçak
 koch
 kock
 kocken
@@ -3840,7 +3833,6 @@ koevoets
 koffeman
 kogelman
 koggel
-köhler
 kok
 kokke
 koks
@@ -3865,7 +3857,6 @@ kommer
 kommers
 kompier
 kon
-könig
 konijn
 konijnenberg
 koning
@@ -3955,7 +3946,6 @@ kortman
 korver
 korving
 kos
-köse
 koskamp
 kosman
 kosse
@@ -3963,10 +3953,8 @@ kossen
 kost
 kosten
 koster
-köster
 kosterman
 kosters
-kösters
 koudijs
 koudstaal
 kouters
@@ -3974,6 +3962,8 @@ kouwen
 kouwenberg
 kouwenhoven
 kox
+koç
+koçak
 kraai
 kraaij
 kraaijenbrink
@@ -4138,6 +4128,11 @@ kwee
 kwekkeboom
 kwint
 kwinten
+köhler
+könig
+köse
+köster
+kösters
 laagland
 laan
 laanstra
@@ -4593,7 +4588,6 @@ marchena
 marcus
 marechal
 maria
-mariën
 marijnissen
 marijs
 marijt
@@ -4601,6 +4595,7 @@ maring
 marinus
 maris
 marissen
+mariën
 mark
 markerink
 marks
@@ -4832,7 +4827,6 @@ mohammadi
 mohammed
 mohamud
 mohan
-möhlmann
 mohr
 mok
 mol
@@ -4849,7 +4843,6 @@ moll
 mollema
 molleman
 mollen
-möller
 mollink
 mols
 mom
@@ -4917,7 +4910,6 @@ mulders
 mulkens
 mullenders
 muller
-müller
 munneke
 munnik
 munster
@@ -4940,6 +4932,9 @@ musters
 mutlu
 mutsaers
 muurling
+möhlmann
+möller
+müller
 naafs
 naaijkens
 naaktgeboren
@@ -5226,13 +5221,15 @@ oostveen
 oostvogels
 ooteman
 ootes
-opdam
+op 't hof
+op 't hoog
 op den camp
 op den kamp
 op den kelder
+op het veld
+opdam
 opheij
 ophelders
-op het veld
 ophof
 ophorst
 ophuis
@@ -5242,8 +5239,6 @@ opperman
 oppers
 oprins
 opstal
-op 't hof
-op 't hoog
 oranje
 ordelman
 orhan
@@ -5273,12 +5268,12 @@ ottink
 otto
 ouali
 oud
-oudejans
 oude luttikhuis
-oudenaarden
-oudendijk
 oude nijhuis
 oude vrielink
+oudejans
+oudenaarden
+oudendijk
 oudhuis
 oudijk
 oudman
@@ -5312,14 +5307,7 @@ overweg
 overwijk
 oving
 owusu
-öz
-özcan
-özçelik
-özdemir
-özer
 ozinga
-özkan
-öztürk
 paalman
 paalvast
 paans
@@ -5912,14 +5900,12 @@ rokven
 rokx
 rol
 rolfes
-röling
 rolink
 rolvink
 rombout
 rombouts
 romeijn
 romein
-römer
 romijn
 romkes
 romme
@@ -6038,6 +6024,8 @@ rutjens
 rutjes
 rutte
 rutten
+röling
+römer
 saalmink
 saarloos
 sabajo
@@ -6046,7 +6034,6 @@ saes
 safi
 sahertian
 sahin
-şahin
 said
 saidi
 sala
@@ -6057,8 +6044,8 @@ salemink
 salhi
 salih
 salman
-salomé
 salomons
+salomé
 salverda
 saman
 sambo
@@ -6103,7 +6090,6 @@ schaart
 schaefer
 schaefers
 schaeffer
-schäfer
 schaftenaar
 schagen
 schakel
@@ -6288,9 +6274,9 @@ schrijer
 schrijver
 schrijvers
 schrik
-schröder
 schroevers
 schrooten
+schröder
 schuijt
 schuil
 schuilenburg
@@ -6328,6 +6314,7 @@ schuurmans
 schuurs
 schwartz
 schwarz
+schäfer
 sebregts
 seegers
 seelen
@@ -6346,10 +6333,8 @@ selier
 selles
 sellis
 selten
-şen
 senden
 senders
-şener
 sengers
 sep
 sepers
@@ -6558,7 +6543,6 @@ somers
 sommer
 sommers
 somsen
-sönmez
 sonnemans
 sonneveld
 soons
@@ -6851,6 +6835,7 @@ swets
 swier
 swiers
 swinkels
+sönmez
 taal
 tabak
 tabbers
@@ -6883,32 +6868,38 @@ tanke
 tankink
 tap
 tas
-taş
 taverne
 tax
 taylor
 tazelaar
+taş
 te boekhorst
 te braak
 te brake
 te dorsthorst
+te grotenhuis
+te hennepe
+te lindert
+te lintelo
+te molder
+te nijenhuis
+te pas
+te riele
+te velde
+te wierik
+te winkel
 teekens
 teerink
 teeuw
 teeuwen
 teeuwisse
 tegelaar
-te grotenhuis
-te hennepe
 teitsma
 tekin
 tel
-te lindert
-te lintelo
 telkamp
 temming
 temmink
-te molder
 tempel
 tempelaar
 tempelaars
@@ -6935,21 +6926,19 @@ ten hoopen
 ten hoor
 ten hove
 ten hoven
-te nijenhuis
 ten kate
 ten klooster
 ten napel
 ten oever
 ten pas
-tensen
-tent
 ten thije
 ten tije
 ten veen
 ten velde
 ten voorde
 ten wolde
-te pas
+tensen
+tent
 tepper
 ter avest
 ter beek
@@ -6962,32 +6951,31 @@ ter burg
 ter haar
 ter harmsel
 ter heide
-terhorst
 ter horst
 ter huurne
-te riele
 ter laak
-terlingen
-terlouw
-terluin
-termaat
 ter maat
-termeer
 ter meulen
 ter mors
-terol
-terpstra
 ter schure
-tersteeg
 ter steege
 ter stege
 ter veen
 ter veer
 ter velde
 ter voert
-tervoort
 ter wal
 ter wee
+terhorst
+terlingen
+terlouw
+terluin
+termaat
+termeer
+terol
+terpstra
+tersteeg
+tervoort
 teske
 tesselaar
 tettero
@@ -6998,12 +6986,8 @@ teunis
 teunisse
 teunissen
 teurlings
-te velde
-te wierik
-te winkel
 thakoer
 thalen
-'t hart
 the
 theelen
 theeuwen
@@ -7025,13 +7009,11 @@ thijsen
 thijssen
 thissen
 thoen
-'t hoen
 tholen
 thoma
 thomas
 thomassen
 thompson
-'t hooft
 thoolen
 thoonen
 thuis
@@ -7085,9 +7067,6 @@ tjeerdsma
 tjepkema
 tjoelker
 tjon
-'t jong
-'t lam
-'t mannetje
 tobben
 toebes
 toepoel
@@ -7161,24 +7140,23 @@ tuk
 tukker
 tulp
 tummers
-tunç
 tuncer
+tunç
 turan
 turenhout
 turgut
 turk
-türk
 turkenburg
-türkmen
 turksma
 twaalfhoven
 twigt
 twisk
+türk
+türkmen
 ubachs
 ubaghs
 ubbink
 ubels
-uçar
 udink
 udo
 uenk
@@ -7197,14 +7175,13 @@ uljee
 ulrich
 ultee
 ummels
-ünal
-ünlü
 urlings
 ursem
 uslu
 uyar
 uysal
 uzun
+uçar
 vaandering
 vaandrager
 vaartjes
@@ -7223,6 +7200,25 @@ valks
 vallen
 valstar
 valster
+van 't ende
+van 't hart
+van 't hoenderdaal
+van 't hof
+van 't hoff
+van 't hoog
+van 't hul
+van 't klooster
+van 't land
+van 't oever
+van 't riet
+van 't slot
+van 't veen
+van 't veer
+van 't veld
+van 't westeinde
+van 't wout
+van 't zand
+van 't zelfde
 van aaken
 van aalderen
 van aalst
@@ -7417,8 +7413,6 @@ van de camp
 van de coolwijk
 van de craats
 van de donk
-van dee
-van deelen
 van de geer
 van de geest
 van de geijn
@@ -7438,7 +7432,6 @@ van de kamp
 van de kant
 van de kar
 van de kerkhof
-van dekken
 van de kleut
 van de klundert
 van de kolk
@@ -7453,11 +7446,8 @@ van de laar
 van de laarschot
 van de lagemaat
 van de langenberg
-van delden
 van de leur
-van delft
 van de linde
-van dellen
 van de logt
 van de loo
 van de louw
@@ -7473,6 +7463,72 @@ van de merwe
 van de mheen
 van de moosdijk
 van de mortel
+van de noort
+van de pas
+van de pavert
+van de peppel
+van de poel
+van de pol
+van de polder
+van de poll
+van de put
+van de putte
+van de ree
+van de reep
+van de ridder
+van de riet
+van de rijdt
+van de rijt
+van de ruit
+van de sande
+van de sanden
+van de scheur
+van de schoot
+van de sluis
+van de steeg
+van de streek
+van de veen
+van de veerdonk
+van de velde
+van de ven
+van de vendel
+van de vijver
+van de vliert
+van de vondervoort
+van de voorde
+van de vooren
+van de voort
+van de vorst
+van de vorstenbosch
+van de vossenberg
+van de wal
+van de walle
+van de wardt
+van de water
+van de watering
+van de weerd
+van de weerdhof
+van de weg
+van de wege
+van de weijer
+van de werfhorst
+van de werken
+van de westelaken
+van de westerlo
+van de wetering
+van de wiel
+van de wijdeven
+van de wijngaard
+van de woestijne
+van de worp
+van de wouw
+van de zande
+van dee
+van deelen
+van dekken
+van delden
+van delft
+van dellen
 van den acker
 van den adel
 van den aker
@@ -7527,7 +7583,6 @@ van den bulk
 van den burg
 van den corput
 van den dam
-van denderen
 van den dikkenberg
 van den dobbelsteen
 van den doel
@@ -7585,7 +7640,6 @@ van den nouweland
 van den oetelaar
 van den oever
 van den oord
-van de noort
 van den ouden
 van den oudenalder
 van den ouweland
@@ -7599,15 +7653,7 @@ van den top
 van den tweel
 van den wijngaard
 van den wildenberg
-van de pas
-van de pavert
-van de peppel
-van de poel
-van de pol
-van de polder
-van de poll
-van de put
-van de putte
+van denderen
 van der aa
 van der aalst
 van der aar
@@ -7644,8 +7690,6 @@ van der donk
 van der drift
 van der duin
 van der dussen
-van de ree
-van de reep
 van der eerden
 van der eijk
 van der elst
@@ -7703,10 +7747,6 @@ van der horst
 van der hout
 van der houwen
 van der hulst
-van de ridder
-van de riet
-van de rijdt
-van de rijt
 van der jagt
 van der kaa
 van der kaaden
@@ -7884,7 +7924,6 @@ van der toorn
 van der torre
 van der tuin
 van der tuuk
-van de ruit
 van der vaart
 van der valk
 van der vecht
@@ -7976,54 +8015,11 @@ van der zwaard
 van der zwan
 van der zwart
 van der zwet
-van de sande
-van de sanden
-van de scheur
-van de schoot
-van de sluis
-van de steeg
-van de streek
 van deursen
 van deurzen
 van deutekom
 van deuveren
-van de veen
-van de veerdonk
-van de velde
-van de ven
-van de vendel
 van deventer
-van de vijver
-van de vliert
-van de vondervoort
-van de voorde
-van de vooren
-van de voort
-van de vorst
-van de vorstenbosch
-van de vossenberg
-van de wal
-van de walle
-van de wardt
-van de water
-van de watering
-van de weerd
-van de weerdhof
-van de weg
-van de wege
-van de weijer
-van de werfhorst
-van de werken
-van de westelaken
-van de westerlo
-van de wetering
-van de wiel
-van de wijdeven
-van de wijngaard
-van de woestijne
-van de worp
-van de wouw
-van de zande
 van die
 van diejen
 van diemen
@@ -8118,7 +8114,6 @@ van eijl
 van eijndhoven
 van eijsden
 van ek
-vaneker
 van ekeren
 van elburg
 van elderen
@@ -8375,7 +8370,6 @@ van kalmthout
 van kalsbeek
 van kammen
 van kampen
-vankan
 van kan
 van kasteel
 van kasteren
@@ -8801,15 +8795,8 @@ van tatenhove
 van teeffelen
 van teijlingen
 van tellingen
-van 't ende
 van tetering
-van 't hart
 van thiel
-van 't hoenderdaal
-van 't hof
-van 't hoff
-van 't hoog
-van 't hul
 van tiel
 van tienen
 van tienhoven
@@ -8818,9 +8805,6 @@ van til
 van tilborg
 van tilburg
 van tintelen
-van 't klooster
-van 't land
-van 't oever
 van tol
 van toledo
 van tongeren
@@ -8829,24 +8813,15 @@ van toorn
 van tricht
 van trier
 van triest
-van 't riet
 van trigt
 van troost
-van 't slot
 van tuijl
 van tuil
 van tuinen
 van turnhout
 van tussenbroek
-van 't veen
-van 't veer
-van 't veld
-van 't westeinde
 van twillert
 van twist
-van 't wout
-van 't zand
-van 't zelfde
 van uden
 van uffelen
 van uitert
@@ -9011,6 +8986,8 @@ van zwet
 van zwienen
 van zwieten
 van zwol
+vaneker
+vankan
 varekamp
 varkevisser
 varwijk
@@ -9845,23 +9822,23 @@ xu
 yalçin
 yaman
 yang
-yaşar
 yavuz
 yazici
+yaşar
 ye
 yeung
 yigit
-yiğit
 yildirim
 yildiz
 yilmaz
+yiğit
 youssef
 ypma
 yu
-yücel
 yuen
-yüksel
 yusuf
+yücel
+yüksel
 zaaijer
 zaal
 zaalberg
@@ -9976,3 +9953,26 @@ zwikker
 zwinkels
 zwolle
 zwolsman
+çakir
+çakmak
+çalişkan
+çelik
+çetin
+çetinkaya
+çiftçi
+çinar
+çiçek
+çoban
+çolak
+öz
+özcan
+özdemir
+özer
+özkan
+öztürk
+özçelik
+ünal
+ünlü
+şahin
+şen
+şener

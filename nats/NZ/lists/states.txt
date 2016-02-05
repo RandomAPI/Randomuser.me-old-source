@@ -1,9 +1,9 @@
 auckland
-bay of Plenty
+bay of plenty
 canterbury
 gisborne
-hawke's Bay
-manawatu-Wanganui
+hawke's bay
+manawatu-wanganui
 marlborough
 nelson
 northland
@@ -13,4 +13,4 @@ taranaki
 tasman
 waikato
 wellington
-west Coast
+west coast

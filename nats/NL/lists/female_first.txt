@@ -2052,6 +2052,7 @@ ikram
 ikrame
 ilana
 ilayda
+ilayda
 ilaysa
 ileen
 ilene
@@ -2062,6 +2063,7 @@ ilja
 ilka
 ilkay
 ilke
+ilknur
 ilknur
 ilona
 ilonca
@@ -2123,6 +2125,7 @@ ipek
 iqra
 ira
 ireen
+irem
 irem
 irena
 irene
@@ -2383,8 +2386,8 @@ jitske
 jitte
 jo
 jo-ann
-jo-anne
 jo-ann
+jo-anne
 jo-anne
 joan
 joana
@@ -5327,17 +5330,14 @@ zümra
 ümran
 şebnem
 şefika
-šejla
 şenay
 şerife
 şevval
 şeyda
 şeyma
 şirin
-ilayda
-ilknur
-irem
 şuheda
 şule
 şüheda
 şükran
+šejla

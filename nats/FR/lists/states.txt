@@ -1,8 +1,8 @@
 ain
 aisn
 allier
-alpes-maritimes
 alpes-de-haute-provence
+alpes-maritimes
 ardennes
 ardèche
 ariège
@@ -83,9 +83,9 @@ rhône
 sarthe
 savoie
 saône-et-loire
+seine-et-marne
 seine-maritime
 seine-saint-denis
-seine-et-marne
 somme
 tarn
 tarn-et-garonne

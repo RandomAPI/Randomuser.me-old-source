@@ -32,10 +32,8 @@ biberach
 bielefeld
 birkenfeld
 bitburg-prüm
-böblingen
 bochum
 bonn
-börde
 borken
 bottrop
 brandenburg an der havel
@@ -44,6 +42,8 @@ breisgau-hochschwarzwald
 bremen
 bremerhaven
 burgenland
+böblingen
+börde
 calw
 celle
 cham
@@ -70,11 +70,11 @@ diepholz
 dillingen a.d. donau
 dingolfing-landau
 dithmarschen
-döbeln
 donau-ries
 dortmund
 dresden
 duisburg
+döbeln
 düren
 düsseldorf
 ebersberg
@@ -114,30 +114,30 @@ gera
 germersheim
 gießen
 gifhorn
-göppingen
-görlitz
 goslar
 gotha
-göttingen
 grafschaft bentheim
 greifswald
 greiz
 groß-gerau
+göppingen
+görlitz
+göttingen
 günzburg
 güstrow
 gütersloh
 hagen
 halle (saale)
 hamburg
+hameln
 hameln-pyrmont
 hamm
-hameln
 hannover
 harburg
 harz
 hasbergen
-haßberge
 havelland
+haßberge
 heidelberg
 heidenheim
 heilbronn
@@ -151,8 +151,8 @@ hildburghausen
 hildesheim
 hof
 holzminden
-höxter
 hoyerswerda
+höxter
 ingolstadt
 jena
 jerichower land
@@ -168,12 +168,12 @@ kiel
 kitzingen
 kleve
 koblenz
-köln
 konstanz
 krefeld
 kronach
 kulmbach
 kusel
+köln
 landau i.d. pfalz
 landsberg a. lech
 landshut
@@ -185,13 +185,13 @@ lichtenfels
 limburg-weilburg
 lindau-bodensee
 lippe
+ludwigsburg
+ludwigshafen a. rhein
+ludwigslust
 löbau-zittau
 lörrach
 lübeck
 lüchow-dannenberg
-ludwigsburg
-ludwigshafen a. rhein
-ludwigslust
 lüneburg
 magdeburg
 main-spessart
@@ -200,7 +200,6 @@ mainz-bingen
 mannheim
 mansfeld-südharz
 marburg-biedenkopf
-märkisch-oderland
 mayen-koblenz
 mecklenburg-strelitz
 meißen
@@ -211,19 +210,20 @@ miesbach
 miltenberg
 minden-lübbecke
 mittweida
+märkisch-oderland
 mönchengladbach
 mühldorf a. inn
 mülheim a.d. ruhr
 münchen
 münster
 müritz
+neu-ulm
 neubrandenburg
 neuburg-schrobenhausen
 neumarkt i.d.opf.
 neumünster
 neunkirchen
 neuss
-neu-ulm
 neuwied
 nienburg (weser)
 nordfriesland
@@ -281,7 +281,6 @@ rottweil
 rügen
 saalfeld-rudolstadt
 saarlouis
-sächsische schweiz
 salzgitter
 salzland
 sankt wendel
@@ -290,17 +289,16 @@ schierbrok
 schleswig-flensburg
 schmalkalden-meiningen
 schwabach
-schwäbisch hall
 schwandorf
 schweinfurt
 schwerin
+schwäbisch hall
 segeberg
 siegen-wittgenstein
 sigmaringen
 soest
 solingen
 soltau-fallingbostel
-sömmerda
 sonneberg
 speyer
 spree-neiße
@@ -315,17 +313,19 @@ stralsund
 straubing
 straubing-bogen
 stuttgart
+suhl
+sächsische schweiz
+sömmerda
 südliche weinstraße
 südwestpfalz
-suhl
 teltow-fläming
 tirschenreuth
 torgau-oschatz
 traunstein
 trier
 trier-saarburg
-tübingen
 tuttlingen
+tübingen
 uckermark
 uecker-randow
 uelzen

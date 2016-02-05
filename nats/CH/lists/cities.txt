@@ -2,105 +2,105 @@ aclens
 assens
 auboranges
 ballens
-belmont-sur-Lausanne
+belmont-sur-lausanne
 bercher
 berolle
 bettens
-bioley-Magnoux
-bioley-Orjulaz
+bioley-magnoux
+bioley-orjulaz
 bottens
 boulens
 bournens
 boussens
 bremblens
-bretigny-sur-Morrens
+bretigny-sur-morrens
 bussigny
-bussy-Chardonney
-carrouge VD
-chapelle-sur-Moudon
-chavannes-près-Renens
-cheseaux-sur-Lausanne
+bussy-chardonney
+carrouge vd
+chapelle-sur-moudon
+chavannes-près-renens
+cheseaux-sur-lausanne
 clarmont
-colombier VD
-corcelles-le-Jorat
-cottens VD
+colombier vd
+corcelles-le-jorat
+cottens vd
 crissier
-cugy VD
+cugy vd
 cully
 denens
 dommartin
 echallens
-echandens-Denges
+echandens-denges
 echichens
-ecublens VD
+ecublens vd
 epalinges
 epautheyres
 epesses
 essertes
 etagnières
-ferlens VD
+ferlens vd
 fey
 froideville
 gollion
 grancy
-la Conversion
+la conversion
 lausanne
-lausanne Adm cant VD
-le Mont-sur-Lausanne
-les Cullayes
+lausanne adm cant vd
+le mont-sur-lausanne
+les cullayes
 lonay
-lully VD
-lussy-sur-Morges
+lully vd
+lussy-sur-morges
 lutry
-mollens VD
-mollie-Margot
+mollens vd
+mollie-margot
 monnaz
 montpreveyres
 montricher
 morges
 morges 1
 morges 2
-morrens VD
-mézières VD
+morrens vd
+mézières vd
 ogens
-oulens-sous-Echallens
+oulens-sous-echallens
 pampigny
 paudex
-peney-le-Jorat
-peyres-Possens
-poliez-Pittet
-poliez-le-Grand
+peney-le-jorat
+peyres-possens
+poliez-le-grand
+poliez-pittet
 prilly
 préverenges
 pully
-renens VD
-renens VD 1
-renens VD 2
+renens vd
+renens vd 1
+renens vd 2
 reverolle
 riex
-romanel-sur-Lausanne
-romanel-sur-Morges
+romanel-sur-lausanne
+romanel-sur-morges
 ropraz
 savigny
 senarclens
 servion
 sottens
-st-Barthélemy VD
-st-Cierges
-st-Saphorin-sur-Morges
-st-Sulpice VD
+st-barthélemy vd
+st-cierges
+st-saphorin-sur-morges
+st-sulpice vd
 sugnens
 sullens
 syens
 thierrens
 tolochenaz
-vaux-sur-Morges
-villars-Mendraz
-villars-Tiercelin
-villars-le-Terroir
-villars-sous-Yens
+vaux-sur-morges
+villars-le-terroir
+villars-mendraz
+villars-sous-yens
+villars-tiercelin
 vucherens
-vufflens-le-Château
+vufflens-le-château
 vulliens
 vullierens
 yens

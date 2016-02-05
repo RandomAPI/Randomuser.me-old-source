@@ -32,8 +32,8 @@ charly
 clément
 cléo
 corentin
-célian
 célestin
+célian
 côme
 damien
 david
@@ -108,10 +108,10 @@ luis
 luka
 lukas
 lyam
-léon
 léandre
 léandro
 léo
+léon
 léonard
 mae
 mahé
@@ -178,8 +178,8 @@ thiago
 thibault
 thibaut
 thomas
-théodore
 théo
+théodore
 tiago
 tim
 timeo
