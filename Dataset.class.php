@@ -68,7 +68,7 @@ class Dataset
             $current["location"]["state"]  = $this->lists["states"][$i];
             $current["location"]["zip"]    = mt_rand(10000, 99999);
 
-            $current["email"   ] = $name[0] . "." . $name[1] . "@example.com";
+            $current["email"   ] = $name[0] . "." . str_replace(" ", "", $name[1]) . "@example.com";
             $current["username"] = $this->lists["user1"][$i] . $this->lists["user2"][$i] . mt_rand(100, 999);
             $current["password"] = $this->lists["passwords"][$i];
 
